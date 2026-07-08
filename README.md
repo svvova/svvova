@@ -27,16 +27,6 @@
 
 ---
 
-### 📈 Статистика GitHub
-Немного цифр о моей активности в коде:
-
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=svvova&show_icons=true&theme=radical" />
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=svvova&layout=compact&theme=radical" />
-</p>
-
----
-
 ### 📫 Как со мной связаться
 Всегда рад новым знакомствам и крутым идеям! 🚀
 
