@@ -4,7 +4,7 @@
 Я увлеченный разработчик, который любит превращать сложные задачи в простые и красивые решения. Верю в силу open-source и постоянно учусь чему-то новому. ✨
 
 - 🌐 Мой личный сайт: **[blxdev.space](https://blxdev.space)** — здесь собраны мои лучшие проекты и портфолио
-- 🌱 Сейчас я активно изучаю **[Название технологии, например: React или Python]**
+- 🌱 Сейчас я активно изучаю Machine Learning, Backend, Frontend.
 - 🛠️ Люблю создавать инструменты, которые облегчают жизнь пользователям
 - ☕ Лучший код пишется под хорошую музыку и чашку кофе
 
@@ -31,8 +31,8 @@
 Немного цифр о моей активности в коде:
 
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=[ТВОЙ_ЛОГИН]&show_icons=true&theme=radical" />
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[ТВОЙ_ЛОГИН]&layout=compact&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=svvova&show_icons=true&theme=radical" />
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=svvova&layout=compact&theme=radical" />
 </p>
 
 ---
